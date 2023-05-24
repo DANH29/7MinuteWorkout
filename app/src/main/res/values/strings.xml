@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">7MinuteWorkout</string>
+    <string name="image">start image</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="_10">10</string>
+    <string name="_30">30</string>
+    <string name="exerciseName">ExerciseName</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE:</string>
+    <string name="exercise_image">Exercise Image</string>
+    <string name="end">END</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_have_completed_the_workout">You have completed the workout!</string>
+    <string name="finish">FINISH</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="weight_in_kg">WEIGHT (in kg)</string>
+    <string name="height_in_m">HEIGHT (in m)</string>
+    <string name="your_bmi">YOUR BMI</string>
+    <string name="_15_00">15.00</string>
+    <string name="normal">Normal</string>
+    <string name="calculate">Calculate</string>
+    <string name="us_units">US UNITS</string>
+    <string name="metric_units">METRIC UNITS</string>
+    <string name="feet">FEET</string>
+    <string name="inch">INCH</string>
+    <string name="weight_in_lbs">WEIGHT (in lbs)</string>
+    <string name="history">History</string>
+    <string name="_1">1</string>
+    <string name="date">DATE</string>
+    <string name="exercise_completed">EXERCISE COMPLETED</string>
+    <string name="no_data_available">NO DATA AVAILABLE</string>
+</resources>
